@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/ChNafi222/GithubProfile_finderApp/static/css/main.a15c0188.css",
-    "main.js": "/ChNafi222/GithubProfile_finderApp/static/js/main.219c7d23.js",
+    "main.js": "/ChNafi222/GithubProfile_finderApp/static/js/main.c9b6ac07.js",
     "static/media/spinner.gif": "/ChNafi222/GithubProfile_finderApp/static/media/spinner.e2ffacc949faa6aeba7c.gif",
     "index.html": "/ChNafi222/GithubProfile_finderApp/index.html",
     "main.a15c0188.css.map": "/ChNafi222/GithubProfile_finderApp/static/css/main.a15c0188.css.map",
-    "main.219c7d23.js.map": "/ChNafi222/GithubProfile_finderApp/static/js/main.219c7d23.js.map"
+    "main.c9b6ac07.js.map": "/ChNafi222/GithubProfile_finderApp/static/js/main.c9b6ac07.js.map"
   },
   "entrypoints": [
     "static/css/main.a15c0188.css",
-    "static/js/main.219c7d23.js"
+    "static/js/main.c9b6ac07.js"
   ]
 }
